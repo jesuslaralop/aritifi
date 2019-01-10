@@ -1,0 +1,1 @@
+jupyter nbconvert lecture_1_2019a.ipynb --to html
